@@ -1,0 +1,6 @@
+# tipos de archivos
+*.txt
+*.csv
+
+# Carpetas
+venv/
